@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
 - 👨‍💻 I'm a Software Engineer. I’m currently working with JS, TS, React, React Native, Vue, NextJS, NestJS, Go, etc.
-- 🥹 Fun fact: Open-minded and friendly, enjoys sharing knowledge with others. I love play guitar and coding.
+- 🥹 Fun fact: Open-minded and friendly, enjoys sharing knowledge with others. I love play game and coding.
 - ☕ I need more coffee.
 - 📚 I'm a lifelong learner.
 - 📫 Contact me: [pvlbigboss@gmail.com](mailto:pvlbigboss@gmail.com).
@@ -79,9 +79,6 @@
 
 ![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 
-## 📈 Visitor Count
-
-<img src="https://profile-counter.glitch.me/dynonguyen/count.svg" alt="Visitor Count" />
 
 ## ☕ Buy me a coffee
 
